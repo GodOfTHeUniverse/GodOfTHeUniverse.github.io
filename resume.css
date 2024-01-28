@@ -1,0 +1,35 @@
+h2{
+    text-align: center;
+}
+
+.brief{
+    text-align: left;
+}
+
+
+
+.brief{
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.resume-area {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-direction: row;
+}
+
+.left-side {
+    flex: 2;
+    border-right: 1px solid white;
+    
+    
+}
+
+.right-side {
+    flex: 1;
+    margin-right: 25px;
+    
+    
+} 
