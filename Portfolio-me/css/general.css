@@ -14,7 +14,7 @@ header {
 a:hover{
     text-decoration: underline;
     cursor: pointer;
-    font-size:500px;
+    
 }
 
 .heading {
@@ -28,6 +28,7 @@ a:hover{
     cursor: pointer;
     text-decoration: underline;
     opacity: 0.2;
+    font-size:500px;
 }
 
 h2 {
